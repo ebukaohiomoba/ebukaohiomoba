@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebukaohiomoba
-- 👀 I’m interested in Front End Development and making accessible websites!
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front End Development and making accessible websites that look great on any device!
+- 🌱 I’m currently learning Javascript with the TechBridge Technology Career Program.
+- 💞️ I’m looking to collaborate and share resources on web development!
 - 📫 I can be reached at crohiomoba@gmail.com and 3108966902
 
 <!---
