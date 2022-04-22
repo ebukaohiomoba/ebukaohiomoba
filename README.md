@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @ebukaohiomoba
-- I’m interested in Front End Development and making accessible websites that look great on any device!
-- I’m currently learning React with the TechBridge Front End Development Technology Career Program.
+- I’m a Front End Developer interested in  making accessible websites that look great on any device!
+- I’ve completed the TechBridge Front End Development Technology Career Program along with Nucamp.
 - I’m looking to collaborate and share resources on web development!
 - I can be reached at crohiomoba@gmail.com and 3108966902.
 
